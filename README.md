@@ -1,6 +1,7 @@
-# Rental Database/Data-Engineering-Projects
+# Data-Engineering-Projects
 
-# Project Overview and workflow
+## Rental Database
+### Project Overview and workflow
 
 A schema organizes data into tables with appropriate attributes, shows the interrelationships between tables and columns, and imposes constraints such as data types. I create and load data into the database, analyze schema design, and use SQL to do analysis on the database. Converting data into a star schema structure, that can be then uploaded to a data warehouse. 
 
